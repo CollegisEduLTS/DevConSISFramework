@@ -1,0 +1,2 @@
+external_course_key|course_name|start_date|end_date|template_course_key
+DEVCON-SISFRMWK-01|SIS Framework Example Course Creation|7/23/2017|7/28/2017|MSTR-CRS-TEMPLATE

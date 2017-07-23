@@ -1,0 +1,2 @@
+external_person_key|user_id|lastname|firstname|email|passwd|Institution_Role|Department|new_external_person_key 
+RAS_FAC_Sample.Instructor100@rasmussen.edu_FAC|Sample.Instructor100@rasmussen.edu|Instructor100|Sample|sample.instructor100@rasmussen.edu|IqyQT1478*|Faculty|onl|

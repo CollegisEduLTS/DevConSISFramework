@@ -1,0 +1,2 @@
+external_course_key|external_person_key|role|row_status
+DEVCON-SISFRMWK-01|RAS_FAC_Sample.Instructor100@rasmussen.edu_FAC|P|enabled
